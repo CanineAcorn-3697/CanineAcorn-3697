@@ -1,16 +1,26 @@
-## Hi there 👋
+Bem-vindo(a) ao Pedro Seabra ,
+<div>
+   <a href="https://github.com/CanineAcorn-3697">
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CanineAcorn-3697&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CanineAcorn-3697&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
-<!--
-**CanineAcorn-3697/CanineAcorn-3697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Tecnologias,
+!Python
+!TypeScript
+!HTML5
+!CSS3
+!C
 
-Here are some ideas to get you started:
+ Projetos em destaque,
+ <a href="https://github.com/CanineAcorn-3697/Gestao_de_Gastos_Publicos.git">Gestão de Gastos Públicos</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Estatísticas,
+!Visitor Count
+
+ Me siga nas redes abaixo!,
+<div>
+  <a href="www.linkedin.com/in/pedro-seabra-dornellas" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
