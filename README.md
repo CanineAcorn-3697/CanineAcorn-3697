@@ -14,8 +14,8 @@ Bem-vindo(a) ao Pedro Seabra ,
  ### Projetos em destaque,
  <a href="https://github.com/CanineAcorn-3697/Gestao_de_Gastos_Publicos.git">Gestão de Gastos Públicos</a>
 
- Estatísticas,
-!{Visitor Count}(https://komarev.com/ghpvc/?username=CanineAcorn-3697=blue)
+ ### 📊 Estatísticas
+![Visitor Count](https://komarev.com/ghpvc/?username=CanineAcorn-3697&color=red)
 
  Me siga nas redes abaixo!,
 <div>
