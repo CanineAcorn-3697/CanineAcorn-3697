@@ -1,4 +1,4 @@
-Bem-vindo(a) ao Pedro Seabra ,
+### Bem-vindo(a) ao Pedro Seabra ,
 <div>
    <a href="https://github.com/CanineAcorn-3697">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CanineAcorn-3697&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@ Bem-vindo(a) ao Pedro Seabra ,
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=black)
 
  ### Projetos em destaque,
- <a href="https://github.com/CanineAcorn-3697/Gestao_de_Gastos_Publicos.git">Gestão de Gastos Públicos</a>
+ <a href="https://github.com/CanineAcorn-3697/Gestao_de_Gastos_Publicos.git">🔹Gestão de Gastos Públicos</a>
 
  ### 📊 Estatísticas
 ![Visitor Count](https://komarev.com/ghpvc/?username=CanineAcorn-3697&color=red)
